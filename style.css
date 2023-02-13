@@ -1,0 +1,17 @@
+body {
+    background-color: lavender;
+    color: #0e0139;
+}
+table,
+th,
+td {
+    border: 1px solid #0e0139;
+    color: #0e0139;
+}
+#first {
+    display: flex;
+    justify-content: center;
+}
+#second {
+    text-align: center;
+}
